@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Easy Touch</string>
+    <string name="nfc_not_open_tip">请打开NFC开关,打开后请重启Easy Touch</string>
+    <string name="nfc_locked">内容安全锁默认开启\n\n请手动解除内容安全锁进行编辑</string>
+    <string name="nfc_unlocked">内容安全锁已关闭\n\n现允许进行编辑与妙触动作</string>
+    <string name="byte_warrning">警告！字符已超过魔术贴的极限，写入将会失败</string>
+    <string name="updatelink">https://update.easysoftware.xyz/Easy_Touch/zh-CN/update.json</string>
+    <string name="main_name">购买妙触魔法贴纸</string>
+</resources>

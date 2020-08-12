@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="white">#FFFFFF</color>
+    <color name="blue_main">#057aff</color>
+    <color name="red_main">#fa2c56</color>
+    <color name="black_background">#000000</color>
+    <color name="easy_scan">#4f56bb</color>
+    <color name="colorSliderBackground">#ebebeb</color>
+    <color name="colorTextColor">#000000</color>
+    <color name="colorSwitchColor">#000000</color>
+</resources>

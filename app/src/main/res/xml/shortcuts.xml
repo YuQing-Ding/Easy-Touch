@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shortcuts xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <shortcut
+        android:shortcutId="id2"
+        android:enabled="true"
+        android:icon="@mipmap/ic_launcher"
+        android:shortcutShortLabel="@string/main_name"
+        android:shortcutLongLabel="@string/main_name"
+        android:shortcutDisabledMessage="@string/main_name">
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:targetPackage="com.EasySoftware.easytouch"
+            android:targetClass="com.EasySoftware.easytouch.buy_chip" />
+        <!-- If your shortcut is associated with multiple intents, include them
+             here. The last intent in the list determines what the user sees when
+             they launch this shortcut. -->
+        <categories android:name="android.shortcut.conversation" />
+    </shortcut>
+</shortcuts>
