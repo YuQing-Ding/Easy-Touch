@@ -7,8 +7,8 @@ android {
         applicationId "com.EasySoftware.easytouch"
         minSdkVersion 19
         targetSdkVersion 29
-        versionCode 2
-        versionName '2.0'
+        versionCode 1
+        versionName '1.0'
 
         manifestPlaceholders = [
                 //A3PY9WXU42GD 属于应用"Easy_Touch"独有的 Android AppKey, 用于配置SDK
