@@ -15,8 +15,8 @@ Easy Touch （易触）是Android上的一款使用Material Design设计的NFC�
 未来
 =========================
 
-如果你有什么好的想法，请提Issues，我会尽力满足各位。
-- [submit issue](https://github.com/YuQing-Ding/Easy-Touch/issues/new)
+如果你有什么好的想法或者在使用中发现Bugs，请提Issues，我会尽力满足各位。
+- [Submit Issue](https://github.com/YuQing-Ding/Easy-Touch/issues/new)
 
 
 点一个star or 打赏作者一杯咖啡
