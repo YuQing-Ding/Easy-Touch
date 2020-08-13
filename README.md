@@ -23,6 +23,6 @@ Easy Touch （易触）是Android上的一款使用Material Design设计的NFC�
 =========================
 如果你觉得这个Project帮助到你了，可以点一个star，或者请我一杯咖啡吧。
 
-- [PayPal](paypal.me/YuQingDing)
+- [PayPal](https://paypal.me/YuQingDing)
 - Bitcoin 13JDxtxr8SQcN45dtjkhjqr8gc5BeSScqg
 
