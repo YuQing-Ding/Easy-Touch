@@ -9,6 +9,7 @@ It can write and read NFC stickers.
 You can write the results of the OCR scan in Easy Scan to the NFC sticker, and the next time you tap the NFC sticker, it will automatically jump to Easy Touch to read the contents of the NFC sticker.
 
 Note:Easy Scan can be downloaded in[CoolAPK (Chinese Only)](https://www.coolapk.com/apk/233803)and will be open source in the future.
+
 Future
 =========================
 
